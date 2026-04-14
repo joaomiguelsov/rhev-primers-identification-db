@@ -37,7 +37,7 @@ Contains forward and reverse primer combinations curated from peer-reviewed publ
 - Target genomic region (e.g., ORF2, RdRp, Methyltransferase)
 - Primer combination score
 
-### `ISOP_Primers_Database.xlsx`
+### `ISOP_Primers_Database_CS85_V1.xlsx`
 Contains computationally generated primer combinations (labeled `insilicoprimer`). The structure mirrors `AroLit_Primers_Database.xlsx`, with the same thermodynamic, positional, regional, and scoring fields. This dataset extends the literature-based collection with novel candidate pairs ranked by a custom scoring model.
 
 ---
