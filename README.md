@@ -16,7 +16,7 @@ This repository organizes two complementary primer datasets for rabbit hepatitis
 RHEV-Primers-Database/
 │
 ├── AroLit_Primers_Database.xlsx     # Literature-derived primer combinations
-├── ISOP_Primers_Database.xlsx       # In silico generated primer combinations
+├── ISOP_Primers_Database_CS85_V1.xlsx       # In silico generated primer combinations
 └── README.md                        # This file
 ```
 
