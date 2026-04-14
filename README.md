@@ -1,6 +1,6 @@
 # RHEV Primers Database
 
-This repository contains curated RHEV primer data associated with the Master's thesis **"Genomic Diversity and Zoonotic Potential of Hepatitis E Virus in European Rabbits: Implications for Diagnostic and Therapeutic Approaches."**
+This repository contains curated RHEV primer data associated with the Master's thesis of Margarida Cardeano **"Genomic Diversity and Zoonotic Potential of Hepatitis E Virus in European Rabbits: Implications for Diagnostic and Therapeutic Approaches."** 	https://hdl.handle.net/10216/164527
 
 ---
 
@@ -96,10 +96,10 @@ If you use this repository in your research, please cite the associated Master's
 > **Genomic Diversity and Zoonotic Potential of Hepatitis E Virus in European Rabbits: Implications for Diagnostic and Therapeutic Approaches.**
 > Master's Thesis, 2024.
 
-This resource is also associated with:
+Please cite this resource as follows:
 
 > Pinheiro, Margarida Cardeano; Abrantes, Joana; Lopes, Ana M.; Pratas, Diogo; Carneiro, João.
-> *HEV in European Rabbits Resource Hub*. Interactive resource, 2024.
+> **RHEV primers database**, 2024.
 
 ---
 
